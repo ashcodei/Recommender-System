@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# Training artifacts
+checkpoints/
+indexes/
+._tmp_eval_queries.csv
+
+# OS
+.DS_Store
+Thumbs.db

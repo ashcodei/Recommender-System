@@ -1,0 +1,8 @@
+torch>=2.1
+torchvision>=0.16
+tqdm>=4.66
+pyyaml>=6.0
+numpy>=1.24
+faiss-cpu>=1.7.4
+# If you want GPU faiss instead, install faiss-gpu (conda usually):
+# conda install -c pytorch faiss-gpu
